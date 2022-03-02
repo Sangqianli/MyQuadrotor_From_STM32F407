@@ -1,0 +1,101 @@
+************************************* Invoked: 周四 2月 17 21:55:21 2022
+[0] Arguments: G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant_windows_64bit.exe
+[21] Operations sanity check succeeded.
+[2605] Loaded control script ":/metadata/installer-config/controlscript_js.js"
+[2605] Using control script: ":/metadata/installer-config/controlscript_js.js"
+[2627] Control script callback "IntroductionPageCallback" does not exist.
+[4659] addDownloadable "bearer.7z"
+[4659] addDownloadable "iconengines.7z"
+[4659] addDownloadable "imageformats.7z"
+[4659] addDownloadable "platforms.7z"
+[4659] addDownloadable "styles.7z"
+[4659] addDownloadable "translations.7z"
+[4659] addDownloadable "content.7z"
+[4659] addDownloadable "content.7z"
+[4682] Control script callback "TargetDirectoryPageCallback" does not exist.
+[19441] Control script callback "PerformInstallationPageCallback" does not exist.
+[19486] backup  operation: Mkdir
+[19486] 	- arguments: G:/四轴无人机/MyQuadrotor_From_STM32F407/TOFSense/nassistant_windows_64bit/nassistant
+[19486] Done
+[19486] perform  operation: Mkdir
+[19486] 	- arguments: G:/四轴无人机/MyQuadrotor_From_STM32F407/TOFSense/nassistant_windows_64bit/nassistant
+[19488] Done
+[19489] Install size: 2 components
+[50388] backup Dependency operation: Extract
+[50388] 	- arguments: installer://Dependency/5.12.10.0bearer.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[50388] Done
+[50389] perform Dependency operation: Extract
+[50389] 	- arguments: installer://Dependency/5.12.10.0bearer.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[50512] Done
+[50512] backup Dependency operation: Extract
+[50512] 	- arguments: installer://Dependency/5.12.10.0content.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[50512] Done
+[50513] perform Dependency operation: Extract
+[50513] 	- arguments: installer://Dependency/5.12.10.0content.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[68181] Done
+[68181] backup Dependency operation: Extract
+[68181] 	- arguments: installer://Dependency/5.12.10.0iconengines.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[68182] Done
+[68182] perform Dependency operation: Extract
+[68182] 	- arguments: installer://Dependency/5.12.10.0iconengines.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[68233] Done
+[68234] backup Dependency operation: Extract
+[68234] 	- arguments: installer://Dependency/5.12.10.0imageformats.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[68234] Done
+[68235] perform Dependency operation: Extract
+[68235] 	- arguments: installer://Dependency/5.12.10.0imageformats.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[69109] Done
+[69109] backup Dependency operation: Extract
+[69110] 	- arguments: installer://Dependency/5.12.10.0platforms.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[69110] Done
+[69110] perform Dependency operation: Extract
+[69110] 	- arguments: installer://Dependency/5.12.10.0platforms.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[69961] Done
+[69962] backup Dependency operation: Extract
+[69962] 	- arguments: installer://Dependency/5.12.10.0styles.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[69962] Done
+[69962] perform Dependency operation: Extract
+[69962] 	- arguments: installer://Dependency/5.12.10.0styles.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[70078] Done
+[70078] backup Dependency operation: Extract
+[70078] 	- arguments: installer://Dependency/5.12.10.0translations.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[70078] Done
+[70078] perform Dependency operation: Extract
+[70078] 	- arguments: installer://Dependency/5.12.10.0translations.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[70237] Done
+[70246] backup Assistant operation: Extract
+[70246] 	- arguments: installer://Assistant/4.2.3content.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[70246] Done
+[70248] perform Assistant operation: Extract
+[70248] 	- arguments: installer://Assistant/4.2.3content.7z, G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant
+[72177] Done
+[72178] backup Assistant operation: CreateShortcut
+[72178] 	- arguments: G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant/NAssistant.exe, C:\Users\E570\Desktop/NAssistant.lnk
+[72179] Done
+[72179] perform Assistant operation: CreateShortcut
+[72179] 	- arguments: G:\四轴无人机\MyQuadrotor_From_STM32F407\TOFSense\nassistant_windows_64bit\nassistant/NAssistant.exe, C:\Users\E570\Desktop/NAssistant.lnk
+[72341] Done
+[72418] Writing maintenance tool: "G:\\四轴无人机\\MyQuadrotor_From_STM32F407\\TOFSense\\nassistant_windows_64bit\\nassistant/MaintenanceTool.exe.new"
+[72613] Wrote permissions for maintenance tool.
+[77125] Maintenance tool restart: false.
+[77181] starting "G:\\四轴无人机\\MyQuadrotor_From_STM32F407\\TOFSense\\nassistant_windows_64bit\\nassistant/NAssistant" ()
+************************************* Invoked: 周四 2月 17 21:56:53 2022
+[0] Operations sanity check succeeded.
+[478] addDownloadable "bearer.7z"
+[479] addDownloadable "iconengines.7z"
+[479] addDownloadable "imageformats.7z"
+[479] addDownloadable "platforms.7z"
+[479] addDownloadable "styles.7z"
+[479] addDownloadable "translations.7z"
+[479] addDownloadable "content.7z"
+[479] addDownloadable "content.7z"
+************************************* Invoked: 周四 2月 17 21:58:13 2022
+[0] Operations sanity check succeeded.
+[475] addDownloadable "bearer.7z"
+[475] addDownloadable "iconengines.7z"
+[475] addDownloadable "imageformats.7z"
+[475] addDownloadable "platforms.7z"
+[475] addDownloadable "styles.7z"
+[475] addDownloadable "translations.7z"
+[475] addDownloadable "content.7z"
+[475] addDownloadable "content.7z"

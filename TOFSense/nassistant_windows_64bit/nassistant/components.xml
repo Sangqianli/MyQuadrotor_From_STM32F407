@@ -1,0 +1,24 @@
+<Packages>
+    <ApplicationName>NAssistant</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>Assistant</Name>
+        <Title>NAssistant</Title>
+        <Description>NAssistant Main Program</Description>
+        <Version>4.2.3</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2022-02-17</InstallDate>
+        <Size>6384168</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>Dependency</Name>
+        <Title>Dependent libraries</Title>
+        <Description>qt libraries</Description>
+        <Version>5.12.10.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2022-02-17</InstallDate>
+        <Size>57769046</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+</Packages>
